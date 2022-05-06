@@ -1,0 +1,6 @@
+e={123:['qwe','mech',120000,'banglore'],234:['wer','soft',130000,'chennai'],345:['ert','hard',110000,'hyd']} 
+n=int(input('enter empno:')) 
+print('name of emp:',e[n][0]) 
+print('designation of emp:',e[n][1]) 
+print('salary of emp:',e[n][2]) 
+print('location of emp:',e[n][3]) 
